@@ -1,4 +1,4 @@
-* **Spil mulighed**
+**Spil mulighed**
 * **Farvevalg**: Spil som hvid eller sort mod AI'en
 * **Sværhedsgrad**: Juster AI-styrke op til søgedybde 5
 * **Tidsbegrænsning**: AI'en har maksimalt 15 sekunder per træk
